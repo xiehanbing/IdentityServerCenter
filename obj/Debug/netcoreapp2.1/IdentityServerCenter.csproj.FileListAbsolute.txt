@@ -12,3 +12,17 @@ H:\MapperRepository\identityServerSample\IdentityServerCenter\obj\Debug\netcorea
 H:\MapperRepository\identityServerSample\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.RazorTargetAssemblyInfo.cache
 H:\MapperRepository\identityServerSample\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.dll
 H:\MapperRepository\identityServerSample\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.pdb
+H:\Repository\IdentityServerCenter\bin\Debug\netcoreapp2.1\IdentityServerCenter.deps.json
+H:\Repository\IdentityServerCenter\bin\Debug\netcoreapp2.1\IdentityServerCenter.runtimeconfig.json
+H:\Repository\IdentityServerCenter\bin\Debug\netcoreapp2.1\IdentityServerCenter.runtimeconfig.dev.json
+H:\Repository\IdentityServerCenter\bin\Debug\netcoreapp2.1\IdentityServerCenter.dll
+H:\Repository\IdentityServerCenter\bin\Debug\netcoreapp2.1\IdentityServerCenter.pdb
+H:\Repository\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.csprojAssemblyReference.cache
+H:\Repository\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.csproj.CoreCompileInputs.cache
+H:\Repository\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.RazorAssemblyInfo.cache
+H:\Repository\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.RazorAssemblyInfo.cs
+H:\Repository\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.AssemblyInfoInputs.cache
+H:\Repository\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.AssemblyInfo.cs
+H:\Repository\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.RazorTargetAssemblyInfo.cache
+H:\Repository\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.dll
+H:\Repository\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.pdb
